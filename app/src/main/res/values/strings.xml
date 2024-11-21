@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="arttitle1">Lukisan I </string>
+    <string name="arttitle2">Lukisan II </string>
+    <string name="arttitle3">Lukisan III </string>
+    <string name="artist1">Alif Rahmathul J</string>
+    <string name="artist2">Alif Rahmathul J</string>
+    <string name="artist3">Alif Rahmathul J</string>
+</resources>
